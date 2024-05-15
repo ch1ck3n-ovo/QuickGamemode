@@ -1,6 +1,6 @@
 # [FREE] QuickGamemode | Change Gamemode More Quickly  
 
-+ **Size: `2.49KB`**
++ **Size: `2.7KB`**
 
 ## Overview
 + **Native Minecraft Version: `1.20.X`**  
